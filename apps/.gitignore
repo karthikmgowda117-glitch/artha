@@ -1,0 +1,23 @@
+# Secrets & Env
+.env
+*.env
+secrets.json
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+
+# Node / Frontend
+node_modules/
+dist/
+.eslintcache
+
+# Databases
+*.sqlite3
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
